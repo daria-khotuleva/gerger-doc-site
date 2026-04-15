@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "WebFetch(domain:dm-clinic.taplink.ws)",
+      "Bash(open *)",
+      "Bash(sips -Z 1600 -s format jpeg -s formatOptions 82 \"IMG_0689.jpg\" --out \"img/photo/IMG_0689.jpg\")",
+      "Bash(sips -Z 1600 -s format jpeg -s formatOptions 82 \"IMG_0690.jpg\" --out \"img/photo/IMG_0690.jpg\")",
+      "Bash(gh auth *)"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# Original large photos (not for deployment)
+/Photo/
+/Study/
+/Works/
+/site 1/
+.DS_Store
+*.docx
+/IMG_0689.jpg
+/IMG_0690.jpg
